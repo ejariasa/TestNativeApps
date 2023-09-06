@@ -1,0 +1,12 @@
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\bin\Debug\net6.0\ProductTest.Common.deps.json
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\bin\Debug\net6.0\ProductTest.Common.dll
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\bin\Debug\net6.0\ProductTest.Common.pdb
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ProductTest.Common.csproj.AssemblyReference.cache
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ProductTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ProductTest.Common.AssemblyInfoInputs.cache
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ProductTest.Common.AssemblyInfo.cs
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ProductTest.Common.csproj.CoreCompileInputs.cache
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ProductTest.Common.dll
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\refint\ProductTest.Common.dll
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ProductTest.Common.pdb
+C:\Users\Eylen\source\repos\TestNativeApps\ProductTest.Common\obj\Debug\net6.0\ref\ProductTest.Common.dll
